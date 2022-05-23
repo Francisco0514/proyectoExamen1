@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@900&family=Roboto:ital,wght@0,100;0,300;1,300;1,400&display=swap');
+body{
+    font-family: 'Roboto';
+    background-color: #F4F6F7 ;
+    padding: 0;
+    margin: 0;
+}
+
+.menu{
+    list-style: none;
+    padding: 0;
+    background: linear-gradient(to right, #005C98, #505BD5);
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+}
+.menu li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
+p{
+    text-decoration: none;
+    color: white;
+    display: block;
+    display: inline-block;
+    text-align: center;
+    cursor: default;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.menu li{
+    display: inline-block;
+    text-align: center;
+    float: right;
+
+}
+
+.menu li a:hover{
+    background: #5DADE2;
+}
+h1{
+    text-align: center;
+}
+.preguntas{
+    margin-left: 30px;
+}
+.preguntas a{
+    text-decoration: none;
+    color: #3498DB;
+    font-size: 18px;
+    margin-left: 5px;
+    font-weight: bold;
+}
+.preguntas a:hover{
+    color: #154360;
+
+}
+
+.infoPregunta{
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+}
+.contenedorPregunta{
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+button{
+    background-color: #2471A3 ;
+    color: white;
+    font-size: 18px;
+    margin-left: 70px;
+    margin-top: 20px;
+    width: 150px;
+    height: 50px;
+    border-radius: 5px;
+}
+
+button:hover{
+    background-color: #5DADE2 ;
+    cursor: pointer;
+}
+button a{
+    text-decoration: none;
+    color: white;
+}
+.reportes{
+    font-size: 18px;
+    color: rebeccapurple;
+}
+
