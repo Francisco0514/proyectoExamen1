@@ -10,6 +10,6 @@ Taller de Programacion Web
 
 ## Nombre del Proyecto
 
-Examen
+Simulador de Examen en Laravel
 
 
